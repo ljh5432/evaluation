@@ -13,7 +13,7 @@
 > * [통합 구현](https://github.com/ljh5432/OVEN/blob/master/10.통합%20구현.zip)
 > * [제품소프트웨어 패키징](https://github.com/ljh5432/OVEN/tree/master/11.%20제품소프트웨어%20패키징)
 > * [정보시스템 이행](https://github.com/ljh5432/OVEN/tree/master/12.%20정보%20시스템%20이행)
-> * [애플리케이션 테스트 수행]()
+> * [애플리케이션 테스트 수행](https://github.com/ljh5432/OVEN/blob/master/13.%20애플리케이션%20테스트%20수행.zip)
 > * [애플리케이션 테스트 관리]()
 > * [애플리케이션 배포]()
 > * [프로젝트]()
