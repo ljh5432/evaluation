@@ -15,7 +15,7 @@
 > * [정보시스템 이행](https://github.com/ljh5432/OVEN/tree/master/12.%20정보%20시스템%20이행)
 > * [애플리케이션 테스트 수행](https://github.com/ljh5432/OVEN/blob/master/13.%20애플리케이션%20테스트%20수행.zip)
 > * [애플리케이션 테스트 관리](https://github.com/ljh5432/OVEN)
-> * [애플리케이션 배포]()
+> * [애플리케이션 배포](http://gudi.kr/gdc3/201902/20190220/이지현/)
 > * [프로젝트]()
 
 
